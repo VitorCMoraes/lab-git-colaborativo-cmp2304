@@ -1,13 +1,6 @@
 # Lista de Presença - Atividade de Laboratório Git/GitHub
-<<<<<<< HEAD
-Lucas de Paula Carvalho Medolla - 20231002802360
-Vitor Cardoso de Moraes - 20221002801609
-=======
 
 20221002801609 Vitor Cardoso de Moraes
 20232002801213 Gabriel Martins de Maciel
 20181003301119 Matheus Valim Vasconcelos
->>>>>>> 956fdf224cfedfff78fac45a37c7c4647f2c183f
-
-
-
+20231002802360 Lucas de Paula Carvalho Medolla
